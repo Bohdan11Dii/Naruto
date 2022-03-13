@@ -1,11 +1,8 @@
 body{
     margin: 0;
     padding: 0;
-    /* overflow: hidden; */
     background: url(../img/Naruto.jpg) no-repeat fixed center bottom;
-    /* background-repeat: no-repeat; */
-    /* height: 860px; */
-    /* background-size: cover; */
+    
 }
 
 .section__wrapper.is_active{
@@ -48,10 +45,7 @@ body{
 
 .nav__item{
     display: inline-block;
-   
 }
-
-
 
 .nav__link{
     cursor: pointer;
@@ -70,11 +64,8 @@ body{
     background-color: rgba(11, 0, 25, 0.5);
     margin: 150px 30px; 
     color: #fff;
-    /* font: 48px/64px Times New Roman; */
-    /* text-align: justify; */
     border: 3px solid #0b0019;
     border-radius: 10px;
-    /* height: 500px; */
     display: flex;
     justify-content: space-around;
     align-items: center;
